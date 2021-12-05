@@ -1,0 +1,5 @@
+name: ShulkerNoBGone
+version: 1.0
+description: Respaawns shulkers
+author: nekosune
+main: net.newgaea.shulkerstay.ShulkerStayPlugin
